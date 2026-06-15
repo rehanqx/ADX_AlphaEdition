@@ -180,7 +180,6 @@ ADX-Trend-Filter-Pro/
 
 ## 📜 License & Credits
 
-- **Original concept:** © traderharikrishna
 - **Alpha Edition by:** © RehanFX_Alpha | Muhammad Rehan Afzal
 - **License:** [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0/)
 
