@@ -1,4 +1,28 @@
 <div align="center">
+  <div style="background-color: #161b22; padding: 20px; border-radius: 10px; border: 1px solid #30363d; max-width: 600px; margin: 0 auto;">
+    <pre style="color: #ff3333; font-family: monospace; font-size: 11px; line-height: 1.2; background: transparent; border: none; margin: 0; padding: 0; text-align: left; display: inline-block;">
+ ______   ___            __                       
+/\  _  \ /\_ \          /\ \                      
+\ \ \L\ \\//\ \    _____\ \ \___      __          
+ \ \  __ \ \ \ \  /\ '__`\ \  _ `\  /'__`\        
+  \ \ \/\ \ \_\ \_\ \ \L\ \ \ \ \ \/\ \L\.\_      
+   \ \_\ \_\/\____\\ \ ,__/\ \_\ \_\ \__/.\_\     
+    \/_/\/_/\/____/ \ \ \/  \/_/\/_/\/__/\/_/     
+                     \ \_\                        
+                      \/_/                        
+ ____        __      __                           
+/\  _`\     /\ \  __/\ \__  __                    
+\ \ \L\_\   \_\ \/\_\ \ ,_\/\_\    ___     ___    
+ \ \  _\L   /'_` \/\ \ \ \/\/\ \  / __`\ /' _ `\  
+  \ \ \L\ \/\ \L\ \ \ \ \ \_\ \ \/\ \L\ \/\ \/\ \ 
+   \ \____/\ \___,_\ \_\ \__\\ \_\ \____/\ \_\ \_\
+    \/___/  \/__,_ /\/_/\/__/ \/_/\/___/  \/_/\/_/
+    </pre>
+  </div>
+</div>
+
+
+<div align="center">
 
 # 📊 ADX Trend Filter Pro — Alpha Edition
 
